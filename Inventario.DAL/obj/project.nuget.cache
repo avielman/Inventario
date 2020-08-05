@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "TpCaTYy2gm7NHKmTfG6w8OIvqyz10pDkohyhn3chos42P8P64KYTeY8Ma6jJyx7QhixateoTZih/IwK8+gjfgw==",
+  "success": true,
+  "projectFilePath": "C:\\Sistemas\\C\\Trunk\\Inventario\\Inventario.DAL\\Inventario.DAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\´hp\\.nuget\\packages\\litedb\\5.0.8\\litedb.5.0.8.nupkg.sha512",
+    "C:\\Users\\´hp\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\´hp\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,4 @@
+C:\Proyectos\Inventario\Inventario.DAL\bin\Debug\netstandard2.0\Inventario.COMMON.dll
+C:\Proyectos\Inventario\Inventario.DAL\obj\Debug\netstandard2.0\Inventario.DAL.csprojAssemblyReference.cache
+C:\Proyectos\Inventario\Inventario.DAL\obj\Debug\netstandard2.0\Inventario.DAL.AssemblyInfoInputs.cache
+C:\Proyectos\Inventario\Inventario.DAL\obj\Debug\netstandard2.0\Inventario.DAL.AssemblyInfo.cs
